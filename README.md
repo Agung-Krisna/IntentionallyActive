@@ -17,3 +17,12 @@ Jetpack Compose is a modern toolkit for building native UI in Android applicatio
 
 This approach is considered modern because it uses Kotlin APIs and is designed to be enjoyable to use, with a focus on ease of development and compatibility with existing apps. 
 
+## Screenshot
+
+**Home Screen**
+
+![home_screen](https://github.com/Agung-Krisna/IntentionallyActive/blob/master/screenshots/home_screen.png?raw=true) 
+
+**Exercises Screen**
+![exercises_screen](https://github.com/Agung-Krisna/IntentionallyActive/blob/master/screenshots/exercises_screen.png?raw=true)
+
