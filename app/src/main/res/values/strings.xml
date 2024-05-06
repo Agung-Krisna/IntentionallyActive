@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intentionally Active</string>
+    <string name="display_text">Intentionally Become a More Active Person</string>
+    <string name="feature_easy">Easy to Use</string>
+    <string name="feature_easy_description">Simple instructions to follow</string>
+    <string name="feature_personalized">Personalized Result</string>
+    <string name="feature_personalized_description">Make a unique workout session</string>
+    <string name="feature_offline">Offline Mode</string>
+    <string name="feature_offline_description">Exercise without internet connection</string>
+</resources>
