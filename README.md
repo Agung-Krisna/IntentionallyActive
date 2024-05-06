@@ -24,5 +24,6 @@ This approach is considered modern because it uses Kotlin APIs and is designed t
 ![home_screen](https://github.com/Agung-Krisna/IntentionallyActive/blob/master/screenshots/home_screen.png?raw=true) 
 
 **Exercises Screen**
+
 ![exercises_screen](https://github.com/Agung-Krisna/IntentionallyActive/blob/master/screenshots/exercises_screen.png?raw=true)
 
